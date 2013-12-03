@@ -8,11 +8,18 @@
 
 #import "AppDelegate.h"
 
+
 @implementation AppDelegate
+
+
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    
+    //sendPing("192.168.1.34");
+    
+        
     return YES;
 }
 							
